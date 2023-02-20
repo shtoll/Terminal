@@ -1,12 +1,10 @@
 { 
-	"person_name": "Anton"
+	"person_name": "Anton",
 	"person_age": 32,
 	"person_devices": {
-				"devices_1":"Iphone 12 pro",
-				"device_2":"Samsung A52"
-
+				"device_1":"Iphone 12 pro",
+				"device_2":"Samsung A52",
+				"device_3":"iPad 10 pro"
 	}
-
-
 }
 
