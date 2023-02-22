@@ -6,4 +6,6 @@
 
 
 
-Мой [Linkedin](https://www.linkedin.com/in/herman-shtolle/ "Моя страница")
+Мой 
+|[Linkedin](https://www.linkedin.com/in/herman-shtolle/ "Моя страница")|
+|:---|
