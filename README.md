@@ -7,5 +7,5 @@
 
 
  
-Ссылка на мой |[Linkedin](https://www.linkedin.com/in/herman-shtolle/ "My page")|
+ |[Linkedin](https://www.linkedin.com/in/herman-shtolle/ "My page")|
  |:---|
